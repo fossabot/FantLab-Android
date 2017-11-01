@@ -4,8 +4,7 @@ import io.reactivex.Observable
 import io.reactivex.Single
 import okhttp3.ResponseBody
 import org.odddev.fantlab.autors.AuthorsResponse
-import org.odddev.fantlab.autors.autor.AuthorPageInfo
-import org.odddev.fantlab.autors.autor.AutorFull
+import org.odddev.fantlab.core.sample.deserialize.AuthorPageInfo
 import org.odddev.fantlab.award.Award
 import retrofit2.Response
 import retrofit2.http.*

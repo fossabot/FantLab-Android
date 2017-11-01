@@ -1,4 +1,4 @@
-package org.odddev.fantlab.autors.autor
+package org.odddev.fantlab.core.sample.deserialize
 
 import com.google.gson.*
 import org.odddev.fantlab.core.models.*

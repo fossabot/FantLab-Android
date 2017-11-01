@@ -14,6 +14,7 @@ import com.arellomobile.mvp.MvpAppCompatFragment
 import com.arellomobile.mvp.presenter.InjectPresenter
 import com.google.gson.Gson
 import org.odddev.fantlab.R
+import org.odddev.fantlab.core.sample.epoxy.AuthorController
 import org.odddev.fantlab.databinding.AutorFragmentBinding
 import org.odddev.fantlab.home.IActionsHandler
 

@@ -1,8 +1,10 @@
-package org.odddev.fantlab.autors.autor
+package org.odddev.fantlab.core.sample.epoxy
 
 import com.airbnb.epoxy.AutoModel
 import com.airbnb.epoxy.Typed2EpoxyController
 import org.odddev.fantlab.*
+import org.odddev.fantlab.autors.autor.AutorFull
+import org.odddev.fantlab.autors.autor.IAutorActions
 
 class AuthorController(private val handler: IAutorActions) : Typed2EpoxyController<AutorFull?, Boolean>() {
 
